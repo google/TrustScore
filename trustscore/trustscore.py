@@ -15,6 +15,9 @@
 import numpy as np
 from sklearn.neighbors import KDTree, KNeighborsClassifier
 
+    """
+    Try different filter functions + others self params
+    """
 
 class TrustScore:
     """
